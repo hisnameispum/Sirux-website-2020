@@ -20,6 +20,24 @@ h6 {
   color: #fff;
 }
 
+.big-heading {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  padding-left: 9%;
+}
+.big-heading-span {
+  color: #f9db6d;
+}
+
+.sub-heading {
+  padding-left: 9%;
+  font-weight: lighter;
+  padding-top: 5%;
+  font-size: 2.8rem;
+  line-height: 1.5;
+}
+
 /* Navigation Bar */
 
 .navbar {
