@@ -93,3 +93,20 @@ h6 {
   text-align: center;
   font-weight: bold;
 }
+
+.title-image {
+  width: 100%;
+  position: absolute;
+  right: 20%;
+}
+
+.download-button {
+  margin: 5% 3% 25% 9%;
+  border-radius: 30px !important;
+  width: 162px;
+  height: 62px;
+}
+.download-button:hover {
+  background-color: #f9db6d !important;
+  color: #1c1c1c !important;
+}
