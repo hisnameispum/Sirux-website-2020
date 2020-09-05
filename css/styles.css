@@ -69,13 +69,13 @@ h6 {
   color: #f9db6d !important;
 }
 
-#title {
+#home {
   background-color: #1c1c1c;
   color: #fff;
   text-align: left;
 }
 
-#title .container-fluid {
+#home .container-fluid {
   padding: 3% 15% 7% 5%;
 }
 
