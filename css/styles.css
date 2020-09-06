@@ -49,14 +49,24 @@ h6 {
   font-size: 28px;
 }
 
+.navbar-nav {
+  padding-right: 12%;
+  padding-top: 30px;
+}
+
+#home-row {
+  padding-top: 50px;
+}
+
 .navbar-brand {
+  padding-left: 5%;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 2.5rem;
   font-weight: bold;
 }
 
 .nav-item {
-  padding: 0 2%;
+  padding: 0 2% !important;
 }
 
 .nav-link {
@@ -73,6 +83,10 @@ h6 {
   background-color: #1c1c1c;
   color: #fff;
   text-align: left;
+}
+
+.fixed-top {
+  background-color: #1b1b1b;
 }
 
 #home .container-fluid {
