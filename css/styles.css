@@ -129,3 +129,9 @@ h6 {
 .navbar .navbar-collapse {
   text-align: center !important;
 }
+
+#about-img {
+  width: 70%;
+  position: absolute;
+  left: 10%;
+}
