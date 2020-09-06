@@ -79,19 +79,20 @@ h6 {
   padding: 3% 15% 7% 5%;
 }
 
-.nav-button {
-  padding-left: 10%;
-}
-
-.nav-button .nav-link {
-  color: #1c1c1c !important;
-  background-color: #f9db6d;
-  border-radius: 30px;
-  padding: 10% 50%;
-  width: 130px;
-  height: 50px;
-  text-align: center;
-  font-weight: bold;
+@media screen and (min-width: 1080px) {
+  .nav-button {
+    padding-left: 10%;
+  }
+  .nav-button .nav-link {
+    color: #1c1c1c !important;
+    background-color: #f9db6d;
+    border-radius: 30px;
+    padding: 10% 50%;
+    width: 130px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+  }
 }
 
 .title-image {
@@ -109,4 +110,8 @@ h6 {
 .download-button:hover {
   background-color: #f9db6d !important;
   color: #1c1c1c !important;
+}
+
+.navbar .navbar-collapse {
+  text-align: center !important;
 }
